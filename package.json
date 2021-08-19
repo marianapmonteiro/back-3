@@ -1,0 +1,24 @@
+{
+  "name": "back-3",
+  "version": "1.0.0",
+  "description": "meu api",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianapmonteiro/back-3.git"
+  },
+  "author": "Mariana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marianapmonteiro/back-3/issues"
+  },
+  "homepage": "https://github.com/marianapmonteiro/back-3#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
